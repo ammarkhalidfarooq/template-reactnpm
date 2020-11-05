@@ -1,8 +1,8 @@
 {
-    "name": "YOUR_PACKAGE_NAME",
-    "version": "0.1.0",
-    "description": "",
-    "main": "./lib/YOUR_COMPONENT.js",
+    "name": "admin-form",
+    "version": "0.1.2",
+    "description": "Form for admin",
+    "main": "./lib/CustomForm.js",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
