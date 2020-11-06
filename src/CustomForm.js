@@ -15,14 +15,7 @@ const CustomForm = ({heading, onClick }) => (
             </div>
             <div className="x_content">
               <br />
-              <form
-                id="demo-form2"
-                data-parsley-validate
-                className="form-horizontal form-label-left"
-                onSubmit={onClick}
-              >
-                
-              </form>
+
             </div>
           </div>
         </div>
